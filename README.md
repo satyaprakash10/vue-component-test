@@ -41,4 +41,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Fetch API the list of Users and load into table of Parent Component.
 - Maintan Pagination structure
 - Filter & Search functionality
-- 
